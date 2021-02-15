@@ -1,0 +1,43 @@
+Calisanlar
+
+1-ID=1
+  Ad=Burcu
+  Soyad=Yagli
+  Departman=Risk Yonetim
+  Eposta=burcu10@gmail.com
+
+2-ID=2
+  Ad=Haktan
+  Soyad=Gunes
+  Departman=Tedarik Yonetimi
+  Eposta=h.gunes@gmail.com
+
+3-ID=3
+  Ad=Sevda
+  Soyad=Akar
+  Departman=Satis
+  Eposta=sevdaa22@gmail.com
+
+4-ID=4
+  Ad=Ali
+  Soyad=Yanik
+  Departman=Tasima
+  Eposta=ali4@gmail.com
+
+5-ID=5
+  Ad=Cemal
+  Soyad=Kilic
+  Departman=Pazarlama
+  Eposta=kiliccemal@gmail.com
+
+6-ID=6
+  Ad=Sena
+  Soyad=Güven
+  Departman=Üretim
+  Eposta=güven_sena@gmail.com
+
+7-ID=7
+  Ad=Ahmet
+  Soyad=Korhan
+  Departman=Lojistik
+  Eposta=ahmetk@gmail.com
